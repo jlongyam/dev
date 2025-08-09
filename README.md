@@ -10,6 +10,7 @@ Cross-Platform App Framework
 
 
 - [Core](./src/core/README.md)
+    * [Interface](./src/core/interface/README.md)
     * [State](./src/core/state/README.md)
     * [Services](./src/core/services/README.md)
     * [Lib](./src/core/lib/README.md)
